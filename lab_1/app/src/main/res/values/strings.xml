@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab 1</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="input_your_birthday_year">Input your birthday year</string>
+    <string name="Name" />
+    <string name="_1999">1999</string>
+    <string name="_20_ani">20 ani</string>
+    <string name="submit">Submit</string>
+    <string name="_10">10</string>
+    <string name="_12">12</string>
+    <string name="_13_13">13:13</string>
+    <string name="_01">01</string>
+    <string name="_2000">2000</string>
+    <string name="your_age_unknown">Your age: Unknown</string>
+    <string name="day">Day</string>
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="change">Change</string>
+</resources>
